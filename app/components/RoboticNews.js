@@ -9,7 +9,7 @@ export default function RoboticNews() {
           The Robots <br /> Are Coming
         </h2>
         <p className="text-gray-700 text-base md:text-lg mb-6">
-          There's plenty of talk that robots can act as replacements for warehouse employees.
+          There&rsquo;s plenty of talk that robots can act as replacements for warehouse employees.
           But items have to be grabbed elsewhere, and Preferred Networks Inc. has an idea
           for a place covered with clothing and general filth: the home.
         </p>

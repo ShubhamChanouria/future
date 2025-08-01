@@ -20,11 +20,13 @@ export default function TeachingAI() {
           Engineers Are <br /> Teaching AI
         </h2>
         <p className="text-gray-700 text-base md:text-lg mb-2">
-          There's plenty of talk that robots can act as replacements for warehouse employees.
+          There&rsquo;s plenty of talk that robots can act as replacements for warehouse employees.
           But items have to be grabbed elsewhere, and Preferred Networks Inc. has an idea for a
           place covered with clothing and general filth: the home.
         </p>
-        <p className="text-sm text-gray-500 mb-6">Image from <a className="underline text-gray-600" href="#">Claudeai</a></p>
+        <p className="text-sm text-gray-500 mb-6">
+          Image from <a className="underline text-gray-600" href="#">Claudeai</a>
+        </p>
         <button className="bg-cyan-500 text-white px-6 py-2 rounded-md text-sm hover:bg-cyan-600 transition">
           READ MORE
         </button>
